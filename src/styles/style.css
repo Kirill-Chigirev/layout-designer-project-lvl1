@@ -76,7 +76,7 @@ h3 {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url(/images/background.png);
+  background-image: url(/src/images/background.png);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -2;
@@ -322,13 +322,13 @@ p {
   color: var(--white);
   font-size: 18px;
   line-height: 28.8px;
-  margin-bottom: 9px;
 }
 
 .subscription__input-wrp {
   display: flex;
   height: 50px;
   width: 423px;
+  margin-top: 9px;
 }
 
 .subscription__input {
