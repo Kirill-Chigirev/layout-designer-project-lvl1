@@ -76,7 +76,7 @@ h3 {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url(../src/images/background.png);
+  background-image: url(../images/background.png);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -2;
@@ -152,7 +152,7 @@ p {
 }
 
 .about__preview {
-  background-image: url(../src/images/preview.png);
+  background-image: url(../images/preview.png);
   background-size: cover;
   width: 919px;
   height: 517px;
